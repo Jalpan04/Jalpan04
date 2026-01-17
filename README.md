@@ -75,15 +75,12 @@ CLI tool for real-time Spotify visualization in the terminal. Experience your mu
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jalpan04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Jalpan's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jalpan04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
-</div>
+  
+  [![Jalpan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jalpan04&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jalpan04&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 ---
@@ -92,7 +89,7 @@ CLI tool for real-time Spotify visualization in the terminal. Experience your mu
 
 I'm always interested in collaborating on innovative projects, especially those involving AI, web development, or creative coding. Feel free to reach out!
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://jalpan04.github.io/Jalpan-Vyas)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jalpan04.github.io/Jalpan-Vyas)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jalpan-vyas/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jalpan2104@gmail.com)
 
