@@ -1,6 +1,6 @@
 # Hi there, I'm Jalpan Vyas
 
-I'm a passionate developer who loves building things that live on the web and exploring the depths of Artificial Intelligence. My work spans from crafting efficient web applications to training neural networks and creating game engines from scratch.
+I'm a developer who loves building things that live on the web and exploring the depths of Artificial Intelligence. My work spans from crafting efficient web applications to training neural networks and creating game engines from scratch.
 
 Currently working on AI-powered applications and custom development tools  
 Exploring deep learning, LLMs, and agentic AI workflows  
