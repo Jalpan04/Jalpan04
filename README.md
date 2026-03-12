@@ -56,38 +56,11 @@ Always excited about turning complex ideas into elegant code
 
 ---
 
-## Featured Projects
-
-### [SABLE DECK](https://github.com/Jalpan04/SABLE_DECK)
-A custom Python/Flask Micro-OS that transforms Android devices into fully functional Cyberdecks. Built for makers and hackers who love repurposing hardware.
-
-### [Pixel Diffusion Model](https://github.com/Jalpan04/Pixel-Diffusion-Model)
-Generating retro-style 16x16 pixel art sprites using conditional Denoising Diffusion Probabilistic Models (DDPMs). A deep dive into generative AI for creative applications.
-
-### [Aspis Engine](https://github.com/Jalpan04/aspisengine)
-A minimalist, lightweight 2D game engine built entirely in Python. Designed for rapid prototyping and learning game development fundamentals.
-
-### [Neui](https://github.com/Jalpan04/neui)
-A modern, GPU-accelerated Python UI framework that brings high-performance graphics to desktop applications. Perfect for creative coding and visualization projects.
-
-### [Spoticmd](https://github.com/Jalpan04/spoticmd)
-CLI tool for real-time Spotify visualization in the terminal. Experience your music through beautiful ASCII art and live playback data.
-
----
-
-## GitHub Activity
-
-<div align="center">
-  
-  [![Jalpan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jalpan04&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
 ## Let's Connect
 
 I'm always interested in collaborating on innovative projects, especially those involving AI, web development, or creative coding. Feel free to reach out!
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jalpan04.github.io/Jalpan-Vyas)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jalpan04.dev)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jalpan-vyas/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jalpan2104@gmail.com)
 
