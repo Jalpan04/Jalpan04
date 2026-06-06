@@ -76,3 +76,7 @@ I'm always interested in collaborating on innovative projects, especially those 
   **"Building the future, one commit at a time."**
   
 </div>
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
