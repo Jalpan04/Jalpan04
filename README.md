@@ -1,7 +1,5 @@
 # Hi there, I'm Jalpan Vyas
 
-![GitHub top language](https://img.shields.io/github/languages/top/Jalpan04/Jalpan04) ![GitHub repo size](https://img.shields.io/github/repo-size/Jalpan04/Jalpan04) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
 I'm a developer who loves building things that live on the web and exploring the depths of Artificial Intelligence. My work spans from crafting efficient web applications to training neural networks and creating game engines from scratch.
 
 Currently working on AI-powered applications and custom development tools  
